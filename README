@@ -9,3 +9,4 @@ Este projeto implementa um crawler simples em Node.js que extrai os títulos e U
 - **Node.js:** Ambiente de execução JavaScript.
 - **[Biblioteca de requisições HTTP]:** Ex: Axios, Request, Puppeteer.
 - **[Biblioteca de parse de HTML]:** Ex: Cheerio, jsdom.
+- **Express** Ex: API
